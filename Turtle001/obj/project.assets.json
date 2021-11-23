@@ -1,0 +1,99 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "SmallBasicLib/1.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/SmallBasicLibrary.dll": {}
+        },
+        "runtime": {
+          "lib/SmallBasicLibrary.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win7-x86": {
+      "SmallBasicLib/1.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/SmallBasicLibrary.dll": {}
+        },
+        "runtime": {
+          "lib/SmallBasicLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SmallBasicLib/1.2.0": {
+      "sha512": "8spi/lkg9zcyx0wkNFfqq3f9wMnpB79c/BDO17P29tProp0oDbyoohUbQLMekDsR+gfYenh9NZ+VvbCpxmDp8A==",
+      "type": "package",
+      "path": "smallbasiclib/1.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/SmallBasicLibrary.dll",
+        "lib/SmallBasicLibrary.pt.xml",
+        "lib/SmallBasicLibrary.xml",
+        "smallbasiclib.1.2.0.nupkg.sha512",
+        "smallbasiclib.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "SmallBasicLib >= 1.2.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Ирина\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "c:\\Users\\Ирина\\Desktop\\УЧЕБА\\Разработчик\\C#\\Turtle\\Turtle001\\Turtle001.csproj",
+      "projectName": "Turtle001",
+      "projectPath": "c:\\Users\\Ирина\\Desktop\\УЧЕБА\\Разработчик\\C#\\Turtle\\Turtle001\\Turtle001.csproj",
+      "packagesPath": "C:\\Users\\Ирина\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Ирина\\Desktop\\УЧЕБА\\Разработчик\\C#\\Turtle\\Turtle001\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Ирина\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net48": {
+        "targetAlias": "net48",
+        "dependencies": {
+          "SmallBasicLib": {
+            "target": "Package",
+            "version": "[1.2.0, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}

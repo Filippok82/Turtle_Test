@@ -1,0 +1,56 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ирина\\Desktop\\УЧЕБА\\Разработчик\\C#\\Turtle\\Turtle001\\Turtle001.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ирина\\Desktop\\УЧЕБА\\Разработчик\\C#\\Turtle\\Turtle001\\Turtle001.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ирина\\Desktop\\УЧЕБА\\Разработчик\\C#\\Turtle\\Turtle001\\Turtle001.csproj",
+        "projectName": "Turtle001",
+        "projectPath": "C:\\Users\\Ирина\\Desktop\\УЧЕБА\\Разработчик\\C#\\Turtle\\Turtle001\\Turtle001.csproj",
+        "packagesPath": "C:\\Users\\Ирина\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ирина\\Desktop\\УЧЕБА\\Разработчик\\C#\\Turtle\\Turtle001\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ирина\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "SmallBasicLib": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Turtle\Turtle001\bin\Debug\net6.0\Turtle001.exe
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Turtle\Turtle001\bin\Debug\net6.0\Turtle001.deps.json
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Turtle\Turtle001\bin\Debug\net6.0\Turtle001.runtimeconfig.json
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Turtle\Turtle001\bin\Debug\net6.0\Turtle001.dll
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Turtle\Turtle001\bin\Debug\net6.0\ref\Turtle001.dll
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Turtle\Turtle001\bin\Debug\net6.0\Turtle001.pdb
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Turtle\Turtle001\obj\Debug\net6.0\Turtle001.GlobalUsings.g.cs
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Turtle\Turtle001\obj\Debug\net6.0\Turtle001.csproj.AssemblyReference.cache
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Turtle\Turtle001\obj\Debug\net6.0\Turtle001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Turtle\Turtle001\obj\Debug\net6.0\Turtle001.AssemblyInfoInputs.cache
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Turtle\Turtle001\obj\Debug\net6.0\Turtle001.AssemblyInfo.cs
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Turtle\Turtle001\obj\Debug\net6.0\Turtle001.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Turtle\Turtle001\obj\Debug\net6.0\Turtle001.dll
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Turtle\Turtle001\obj\Debug\net6.0\ref\Turtle001.dll
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Turtle\Turtle001\obj\Debug\net6.0\Turtle001.pdb
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Turtle\Turtle001\obj\Debug\net6.0\Turtle001.genruntimeconfig.cache
