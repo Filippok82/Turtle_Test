@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HrM9hypdC5JNVmNIAFYooI0QUavpbFCaHmU6KSt/oyMjSo03flAnn5F5lrGa9URFsOhMWiZGeRWhIaxQQg6M6A==",
+  "dgSpecHash": "4qKspx0T573BXR4C6okElpGrEMN2I7Y6vp06BrAirvW5K7McyoBbVHJDvhA7lNmWuHUDmpjeA5e9BTh6np7vWA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ирина\\Desktop\\УЧЕБА\\Разработчик\\C#\\Turtle\\Turtle001\\Turtle001.csproj",
+  "projectFilePath": "C:\\Users\\Ирина\\Desktop\\TRAINING\\PROGRAMMER\\C#\\Turtle\\Turtle001\\Turtle001.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ирина\\.nuget\\packages\\smallbasiclib\\1.2.0\\smallbasiclib.1.2.0.nupkg.sha512"
   ],

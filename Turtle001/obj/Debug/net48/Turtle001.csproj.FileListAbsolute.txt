@@ -10,3 +10,16 @@ C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Turtle\Turtle00
 C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Turtle\Turtle001\obj\Debug\net48\Turtle001.csproj.CoreCompileInputs.cache
 C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Turtle\Turtle001\obj\Debug\net48\Turtle001.exe
 C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Turtle\Turtle001\obj\Debug\net48\Turtle001.pdb
+C:\Users\Ирина\Desktop\TRAINING\PROGRAMMER\C#\Turtle\Turtle001\bin\Debug\net48\Turtle001.exe.config
+C:\Users\Ирина\Desktop\TRAINING\PROGRAMMER\C#\Turtle\Turtle001\bin\Debug\net48\Turtle001.exe
+C:\Users\Ирина\Desktop\TRAINING\PROGRAMMER\C#\Turtle\Turtle001\bin\Debug\net48\Turtle001.pdb
+C:\Users\Ирина\Desktop\TRAINING\PROGRAMMER\C#\Turtle\Turtle001\bin\Debug\net48\SmallBasicLibrary.dll
+C:\Users\Ирина\Desktop\TRAINING\PROGRAMMER\C#\Turtle\Turtle001\obj\Debug\net48\Turtle001.csproj.AssemblyReference.cache
+C:\Users\Ирина\Desktop\TRAINING\PROGRAMMER\C#\Turtle\Turtle001\obj\Debug\net48\Turtle001.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ирина\Desktop\TRAINING\PROGRAMMER\C#\Turtle\Turtle001\obj\Debug\net48\Turtle001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ирина\Desktop\TRAINING\PROGRAMMER\C#\Turtle\Turtle001\obj\Debug\net48\Turtle001.AssemblyInfoInputs.cache
+C:\Users\Ирина\Desktop\TRAINING\PROGRAMMER\C#\Turtle\Turtle001\obj\Debug\net48\Turtle001.AssemblyInfo.cs
+C:\Users\Ирина\Desktop\TRAINING\PROGRAMMER\C#\Turtle\Turtle001\obj\Debug\net48\Turtle001.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\Desktop\TRAINING\PROGRAMMER\C#\Turtle\Turtle001\obj\Debug\net48\Turtle001.csproj.CopyComplete
+C:\Users\Ирина\Desktop\TRAINING\PROGRAMMER\C#\Turtle\Turtle001\obj\Debug\net48\Turtle001.exe
+C:\Users\Ирина\Desktop\TRAINING\PROGRAMMER\C#\Turtle\Turtle001\obj\Debug\net48\Turtle001.pdb
